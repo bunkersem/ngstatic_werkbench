@@ -1,0 +1,20 @@
+{
+  "name": "staticng-app",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Sem <polyismstudio@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap.native": "^2.0.12"
+  }
+}
